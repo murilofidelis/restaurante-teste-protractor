@@ -1,0 +1,13 @@
+
+  {
+    "dados":{
+      "nome": "Murilo Fidelis",
+      "email": "murilo@tste.com",
+      "emailConfirmacao": "murilo@tste.com"
+    },
+    "endereco":{
+      "endereco": "rua jose filho",
+      "numero": "8",
+      "complemento": "casa 56"
+    }
+  }
